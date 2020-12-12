@@ -16,5 +16,5 @@
 
 # binary
 reporter
-report
+./report
 dist/**
