@@ -8,6 +8,7 @@ builds:
       - linux
       - darwin
       - windows
+    main: ./cmd/report/main.go
     goarch:
       - amd64
       - 386
